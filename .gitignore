@@ -1,1 +1,5 @@
-/virtual-env
+.env
+.venv/
+virtual-env/
+__pycache__/
+*.pyc
